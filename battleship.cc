@@ -63,7 +63,7 @@ bool Attack(int x, int y) {
 }
 
 int main() {
-    cout << "Welcome to Battle Ship 4.2!!! " << endl;
+    cout << "Welcome to Battleship !!! " << endl;
     cout << "__   " << endl;
     cout << "Instructions: " << endl;
     cout << "Your goal is to transmit coordinates to Base Carrier to launch missle attacks on Japanese battle ships." << endl;
